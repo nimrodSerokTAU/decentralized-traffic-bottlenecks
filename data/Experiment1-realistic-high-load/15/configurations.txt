@@ -1,0 +1,4 @@
+name: CurrentTreeDvd, cost_type: TREE_CURRENT_DIVIDED, algo_type: BABY_STEPS, is_actuated: False, cost_iter_limit: 0
+name: SUMOActuated, cost_type: TREE_CURRENT_DIVIDED, algo_type: BABY_STEPS, is_actuated: True, cost_iter_limit: 0
+name: Random, cost_type: TREE_CURRENT_DIVIDED, algo_type: RANDOM, is_actuated: False, cost_iter_limit: 0
+name: Uniform, cost_type: TREE_CURRENT_DIVIDED, algo_type: UNIFORM, is_actuated: False, cost_iter_limit: 0
